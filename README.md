@@ -1,2 +1,2 @@
 # Payment-form
-Payment and quotation
+Payment and quotation form for Kolin Private. Please check license.txt
